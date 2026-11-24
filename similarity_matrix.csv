@@ -1,0 +1,7 @@
+,S1 password,S2 login,S3 leave policy,S4 casual leaves,S5 weather,S6 timings
+S1 password,1.0,0.678,0.003,-0.012,-0.021,-0.004
+S2 login,0.678,1.0,-0.037,-0.022,0.02,0.013
+S3 leave policy,0.003,-0.037,1.0,0.108,0.029,0.057
+S4 casual leaves,-0.012,-0.022,0.108,1.0,0.113,0.18
+S5 weather,-0.021,0.02,0.029,0.113,1.0,-0.033
+S6 timings,-0.004,0.013,0.057,0.18,-0.033,1.0
